@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paparuckus" alt="paparuckus" /></a> </p>
 
+- 🌱 I’m currently learning **React, Nodejs, and SQLite3**
+
 - 👨‍💻 All of my projects are available at [https://github.com/PapaRuckus](https://github.com/PapaRuckus)
 
 - 📫 How to reach me **calvinknaub@gmail.com**
