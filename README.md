@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **calvinknaub@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/12Z8ZlqZEtV4m7wOngrlUnvrle_dEOZVethp-FuRHTQQ/edit](https://docs.google.com/document/d/12Z8ZlqZEtV4m7wOngrlUnvrle_dEOZVethp-FuRHTQQ/edit)
+- 📄 Know about my experiences [https://docs.google.com/document/d/12Z8ZlqZEtV4m7wOngrlUnvrle_dEOZVethp-FuRHTQQ/edit?usp=sharing](https://docs.google.com/document/d/12Z8ZlqZEtV4m7wOngrlUnvrle_dEOZVethp-FuRHTQQ/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
